@@ -2,7 +2,7 @@ GameMasterModel gameMaster;
 
 void setup()
 {
-  gameMaster = new GameMasterModel(3,1,5);// number of drops, min speed, max speed
+  gameMaster = new GameMasterModel(13,1,5);// number of drops, min speed, max speed
 
   size (800 , 800);
 }
